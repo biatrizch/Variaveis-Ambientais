@@ -5,4 +5,5 @@
 💻Autoria: o código original foi escrito em Python pela Profa. Dra. Flávia Noronha Dutra, a qual me orienta na pesquisa "Análise da influência das monoculturas de cana de açúcar na formação de ilhas de calor em Ribeirão Preto", e, baseado no código dela, eu fiz melhorias e alterações com Pandas, Matplotlib e Jupyternotebook, para criar visualizações de dados mais claras e compreensíveis. Portanto, utilizei o código da Professora para implementar melhorias. 
 
 Código original: "Estatisticas-Original.py", feito pela Profa. Dra. Flávia
+
 Código modificado: "Estatistica-Modificado.ipynb", feito por Beatriz Chen
